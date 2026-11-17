@@ -1,0 +1,283 @@
+[
+    {
+        "user": "AELDDK2E3MWFFRD7MW6PMOB65FRA",
+        "seed_product_type": "Trail Running",
+        "situation": "Looking for reliable trail running shoes for weekend hikes and runs.",
+        "budget_range": "around $80\u2013$120",
+        "user_query": "need some trail running shoes",
+        "user_context": {
+            "brand_preferences": "This shopper shows clear brand loyalty to established performance running brands, most notably New Balance \u2014 multiple purchases and comments like \u201cI own a lot of New Balance\u201d and \u201cnever disappointed\u201d indicate repeat buying and strong trust in that brand\u2019s fit and consistency. They also buy from a range of reputable technical marques (Topo Athletic, Salomon, ASICS, Brooks, Reebok, Fila), signaling openness to high\u2011quality, performance\u2011oriented brands but with a preference for those with proven fit and durability. When trying new brands they favor ones with outdoor/trail reputations rather than fashion\u2011only labels, and positive purchase experiences (fit, comfort, durability) drive future brand choices.",
+            "price_sensitivity": "The user demonstrates medium price sensitivity with a leaning toward quality over lowest price. They paid roughly $90 for a Topo pair and explicitly wrote \u201cso worth the money,\u201d indicating willingness to pay a moderate premium for comfort and performance. At the same time they frequently buy mainstream athletic models (many listings without high price points shown), suggesting they compare value and expect reasonable pricing rather than seeking luxury or bargain\u2011basement deals. Cost is a factor but does not override fit, comfort, or technical performance.",
+            "review_sensitivity": "This shopper exhibits medium review sensitivity: they write detailed product reviews focused on fit, comfort, color, and shipping, and they appear to use hands\u2011on fit and brand reputation as primary decision drivers. They do not consistently cite aggregate star ratings in their comments, instead relying on personal experience and product descriptions to validate purchases. Reviews and ratings are considered as one of several decision inputs rather than the decisive factor.",
+            "functional_requirements": "Across purchases the user consistently needs trail\u2011specific running features: secure and stable fit (heel and midfoot lockdown, gusseted tongues), reliable traction (multidirectional lugs/Vibram or similar outsoles), rock/stone protection (rock plates or toe protection), breathable yet durable uppers, effective mud/water shedding or waterproof coatings for wet conditions, and cushioning that balances protection with ground feel (low to moderate drop, responsive midsoles). They value lightweight construction, protective overlays, and overall durability for rugged terrain rather than purely road\u2011running characteristics.",
+            "aesthetic_preferences": "The user prefers sporty, outdoor\u2011oriented designs with practical color accents \u2014 several reviews praise color choices (\u201clove the color,\u201d \u201ccolor is outstanding\u201d) and specific colorways (e.g., Midnight/Purple). They favor functional looks (mesh/synthetic combinations) over fashion\u2011forward or minimalist urban styles, preferring visible technical details (overlays, lugged outsoles) and occasional bold accent colors rather than muted or purely fashion\u2011led designs.",
+            "purchase_preferences": "The shopper values accurate product descriptions, fast shipping, and reliable seller performance; one review thanks Amazon for quick delivery and accurate listings. They expect items to match online descriptions and fit as expected, and while they care about returnability for sizing errors they sometimes avoid returning slightly tight items (noted one case where they kept a too\u2011small pair). Overall they prefer retailers with dependable shipping, clear sizing guidance, straightforward returns/exchanges for footwear, and trustworthy customer service that supports honest product representations."
+        },
+        "check_list": {
+            "brand_preferences": [
+                "Product is from New Balance or a reputable performance/trail brand (e.g., Topo Athletic, Salomon, ASICS, Brooks, Reebok, Fila).",
+                "Product listing explicitly positions brand as performance/trail\u2011oriented rather than fashion\u2011focused.",
+                "Product has a documented history or reviews indicating consistent fit and durability from the listed brand."
+            ],
+            "price_sensitivity": [
+                "Product price falls within the user's stated budget range ($80\u2013$120).",
+                "Product pricing reflects a moderate premium for performance (priced above budget\u2011value mass models but below luxury/specialty high\u2011end pricing).",
+                "Product offers value indicators such as durable materials or performance features that justify paying above the lowest market price."
+            ],
+            "review_sensitivity": [
+                "Product reviews include first\u2011hand comments about fit and comfort (mentions of heel/midfoot fit, toe box, or sizing).",
+                "Product reviews reference hands\u2011on performance on trails (traction, durability, rock protection, waterproofing).",
+                "Product listing or reviews provide specific shipping and sizing experience details rather than only aggregate star ratings."
+            ],
+            "functional_requirements": [
+                "Product specifies secure heel and midfoot lockdown features (e.g., heel counter, midfoot straps, structured overlays).",
+                "Product includes trail\u2011specific outsole traction (multidirectional lugs or a named rugged outsole such as Vibram).",
+                "Product includes rock/stone protection (rock plate, reinforced toe cap, or explicit stone\u2011shield feature).",
+                "Upper materials are described as breathable yet durable synthetics/mesh with protective overlays.",
+                "Product describes water\u2011management features (waterproof coating/membrane or design features that shed mud/water) and midsole cushioning offering a balance of protection and ground feel (described as responsive or low\u2011to\u2011moderate drop).",
+                "Product weight or description indicates lightweight construction suitable for trail runs (not described primarily as heavy or bulky)."
+            ],
+            "aesthetic_preferences": [
+                "Product images and descriptions present a sporty, outdoor\u2011oriented design with visible technical details (overlays, lugged outsole).",
+                "Available colorways include practical or bold accent colors rather than fashion\u2011only palettes, and product imagery highlights functional materials (mesh/synthetic combinations)."
+            ],
+            "purchase_preferences": [
+                "Product listing has accurate, detailed specifications (materials, features, sizing) that match images and descriptions.",
+                "Seller or retailer offers clear sizing guidance (size charts, fit notes, or model/size examples).",
+                "Seller or retailer provides fast shipping estimates and has reviews confirming timely delivery.",
+                "Seller or retailer has a straightforward return/exchange policy suitable for footwear sizing errors and reliable customer service feedback in reviews."
+            ]
+        },
+        "seed_product_information": {
+            "user_review_title": "Very comfortable",
+            "user_rating": 5.0,
+            "user_review": "Could not ask for a better fitting shoe<br />So worth the money",
+            "product": {
+                "description": [],
+                "categories": [
+                    "Clothing, Shoes & Jewelry",
+                    "Women",
+                    "Shoes",
+                    "Athletic",
+                    "Running",
+                    "Trail Running"
+                ],
+                "main_category": "Sports & Outdoors",
+                "store": "Topo Athletic",
+                "details": "{\"Is Discontinued By Manufacturer\": \"No\", \"Product Dimensions\": \"10 x 15 x 6 inches; 2 Pounds\", \"Department\": \"Womens\", \"Date First Available\": \"April 22, 2021\", \"Manufacturer\": \"Topo Athletic\"}",
+                "title": "Topo Athletic Women's Terraventure 3 Comfortable Cushioned Durable 3MM Drop Trail Running Shoes, Athletic Shoes for Trail Running",
+                "average_rating": 5.0,
+                "features": [
+                    "synthetic-and-fabric",
+                    "Imported",
+                    "Rubber sole",
+                    "BEST USED FOR: Terraventure 3 shoes are ideal for trail running. Flexible ESS rock plate protects against stone bruising caused by sharp rocks and roots, providing comfortable and natural running experience.",
+                    "TRY THE NEW WOMEN'S TERRAVENTURE 3 SHOES: A new split mesh upper provides security through the heel and midfoot, with increased breathability and durability in the forefoot.",
+                    "MORE DURABILITY: High traction outsole combines multidirectional traction, heel braking lugs, and mud/snow release design features.",
+                    "ALL DAY COMFORT: Unparalleled grip, and traction, and durability from the leaders in technical outsoles, our Vibram Megagrip outsole delivers the ultimate grip on any surface, wet or dry.",
+                    "3MM DROP: offers cushioning without losing flexibility and ground feel for a more natural running experience"
+                ],
+                "price": "89.99",
+                "rating_number": 4
+            }
+        }
+    },
+    {
+        "user": "AFSHW2WFOQPCRNV4SNDH4NQKN6IQ",
+        "seed_product_type": "Jeans",
+        "situation": "Looking for comfortable capri jeans for warm weather wear.",
+        "budget_range": "around $30\u2013$50",
+        "user_query": "want to find women's capri jeans",
+        "user_context": {
+            "brand_preferences": "The user shows clear loyalty to mid-market denim brands that deliver consistent fit and comfort. Jag Jeans and the Signature by Levi Strauss & Co. lines receive repeated high praise and multiple purchases, indicating strong brand affinity for those labels. She also positively cites KUT from the Kloth for its real denim feel, while her relationship with classic Levi\u2019s is mixed \u2014 she recognizes the brand but has returned some Levi items due to inconsistent sizing and fit. One-off purchases from Gloria Vanderbilt were satisfactory but not repeatedly chosen, so her loyalty clusters around Jag and Levi\u2019s Signature offerings rather than heritage Levi\u2019s or fashion-only labels.",
+            "price_sensitivity": "The user demonstrates medium price sensitivity: she actively notices and comments on price and seeks good value, but will pay more when a pair meets her fit, comfort and look criteria. Multiple reviews mention being delighted at low sale prices (e.g., praising a $21.99 buy) and preferring lower-cost Signature alternatives over pricier Levi models, yet she also states willingness to repurchase items at moderate prices when the fit is ideal. Overall she compares prices, watches for deals, and balances cost against tangible quality and fit rather than buying only the cheapest option.",
+            "review_sensitivity": "The user relies on reviews and product details as an informative input but does not defer to them exclusively. She reads other customers\u2019 comments (for example noting a seam issue mentioned by others) and uses review-derived signals to make or confirm decisions, yet her ultimate judgments emphasize fit, fabric and personal comfort. Reviews are a helpful secondary check rather than the sole decision driver.",
+            "functional_requirements": "For denim and casual bottoms the user requires a flattering, comfortable fit that minimizes midsection compression: straight or mid/low-mid rise cuts that sit slightly below the natural waist, fuller fit through hips and thighs, and no extreme skinny or flare silhouettes. She prefers garments with some stretch but with real denim look and recovery (moderate stretch that retains shape), reliable waist construction (no gapping, pull-on or tummy-slimming panels welcomed), true-to-size length, and machine-washable fabrics that withstand regular laundering. Durability and authentic denim feel are important, along with pockets and practical closures (zipper or comfortable pull-on waistbands).",
+            "aesthetic_preferences": "The user favors classic, versatile and understated styles over trendy or heavily embellished looks. Preferred silhouettes are straight-leg or modern straight cuts in neutral and mid-to-dark washes (indigo, gray, tan), with minimal distressing or ornamentation. She values a natural denim appearance, modest hem lengths (often slightly longer), and clean, simple details that pair easily with flats, sandals or low heels\u2014an age-appropriate, timeless aesthetic that flatters the figure without drawing attention to the midsection.",
+            "purchase_preferences": "The user values a reliable shopping experience: accurate sizing information, consistent fit across orders, and an easy return policy are critical. She praises prompt, free returns and responsive customer service and will use replacements when sellers handle issues at no cost. Practical concerns matter too\u2014clear size charts, availability of extended sizes, free or low-cost shipping, and product descriptions that state fabric, care (machine wash/hang to dry) and fit are preferred. Packaging, delivery speed and seller reliability are expected to be straightforward and hassle-free; when sizing is inconsistent she will return items rather than keep an uncomfortable fit."
+        },
+        "check_list": {
+            "brand_preferences": [
+                "Product is sold under Jag Jeans or Signature by Levi Strauss & Co.",
+                "Product is sold under KUT from the Kloth (acceptable alternative).",
+                "Product is not from heritage Levi\u2019s core line unless product page or reviews confirm consistent sizing for this style.",
+                "Product is not primarily a fashion-only label with heavy embellishment (unless also sold under Jag/Signature/KUT)."
+            ],
+            "price_sensitivity": [
+                "Current list price or current sale price falls within $30\u2013$50.",
+                "Product page shows regular or sale pricing information that demonstrates the item can be purchased within the $30\u2013$50 range (e.g., visible sale price or coupons)."
+            ],
+            "review_sensitivity": [
+                "Majority of recent customer reviews report the item fits true to size for the stated rise and cut.",
+                "Customer reviews or Q&A specifically describe fabric feel (real denim vs. jegging-like) and mention moderate stretch with shape recovery."
+            ],
+            "functional_requirements": [
+                "Rise is labeled mid or low-mid and product photos/specs indicate it sits slightly below the natural waist.",
+                "Cut is labeled straight or modern straight (capri length) with fuller fit through hips and thighs rather than skinny or flare.",
+                "Fabric composition lists denim with some elastane/spandex for moderate stretch and mentions recovery or shape retention in the description.",
+                "Care instructions specify machine-washable (machine wash listed) and product materials indicate durability/real denim feel.",
+                "Product includes functional front/back pockets and either a zipper/zip-fly or a comfortable pull-on waistband specified in product details; waist construction notes (no gapping/tummy panel) are stated. "
+            ],
+            "aesthetic_preferences": [
+                "Available in neutral or mid-to-dark washes (e.g., indigo, gray, tan) as listed in color options.",
+                "Product photos and description show minimal distressing and no heavy embellishments or decorative hardware.",
+                "Capri length is specified with a modest hem length (product measurements or model height plus inseam provided).",
+                "Design details are clean and simple (no visible large logos, heavy embroidery, or trendy cutouts described)."
+            ],
+            "purchase_preferences": [
+                "Product page provides clear, specific size chart and measurements for this style.",
+                "Product listing includes fabric and care details (fiber percentages and washing instructions).",
+                "Seller offers free or low-cost returns or clearly stated prompt return policy on the product or store page.",
+                "Shipping cost and expected delivery time are displayed on the product or checkout page.",
+                "Product availability includes extended sizes or explicit size range that covers the user\u2019s typical sizes."
+            ]
+        },
+        "seed_product_information": {
+            "user_review_title": "Cute Capris",
+            "user_rating": 5.0,
+            "user_review": "I like the style of these capris and they do fit nicely. One thing is that they do stretch but that'll correct itself when I wash them. All in all, I'm happy with them.",
+            "product": {
+                "description": [
+                    "Gloria Vanderbilt's Amanda Classic capri sits at natural waist with functional pockets, zipper fly, belt loops and stretch for a perfect fit feeling Everytime. This high rise waist crop has a contour fit and stretch body with excellent recovery. Pairs perfectly with all tops from fashion forward to a basic tee shirt and all footwear from stylish heels to your favorit trendy flats. Available in assorted solid colors, see color name for specifics. Gloria Vanderbilt is a versatile yet classic look that attracts and connects with the modern sensibility of consumers of all ages."
+                ],
+                "categories": [
+                    "Clothing, Shoes & Jewelry",
+                    "Women",
+                    "Clothing",
+                    "Jeans"
+                ],
+                "main_category": "AMAZON FASHION",
+                "store": "Gloria Vanderbilt",
+                "details": "{\"Item model number\": \"30156065-0XL\", \"Department\": \"womens\", \"Date First Available\": \"February 12, 2020\", \"Manufacturer\": \"GLORIA VANDERBILT\"}",
+                "title": "Gloria Vanderbilt Women's Amanda Capri Jean",
+                "average_rating": 4.3,
+                "features": [
+                    "98% Cotton, 2% Spandex",
+                    "Imported",
+                    "Zipper closure",
+                    "Machine Wash",
+                    "STYLE - Classic capri sits at natural waist with functional pockets, zipper fly, belt loops and stretch for a perfect fit feeling Everytime",
+                    "VERSATILITY - Goes great with all tops and footwear with comfortable movement and maximum recovery ideal for work, class or vacation.",
+                    "Effortlessly fun and stylish Gloria Vanderbilt is a versatile yet classic look that attracts and connects with the modern sensibility of consumers of all ages.",
+                    "Seasons: Spring/Summer"
+                ],
+                "price": "None",
+                "rating_number": 2459
+            }
+        }
+    },
+    {
+        "user": "AEODBPA3DIR3J5BLOQQUCB2KZYQQ",
+        "seed_product_type": "Mules & Clogs",
+        "situation": "Looking for cozy, supportive slip-on shoes to wear comfortably around the house.",
+        "budget_range": "around $40\u2013$60",
+        "user_query": "want comfortable women's clogs or mules",
+        "user_context": {
+            "brand_preferences": "This shopper shows strong brand loyalty to Easy Spirit: roughly 10 of 11 purchases in the history are Easy Spirit clogs/mules, repeatedly bought across different patterns and sublines (Traveltime, Travelfurr, Martha Stewart collaboration). Their repeated purchases and enthusiastic 4\u20135 star reviews emphasize consistent comfort and the brand\u2019s removable cushioned insoles and arch support, indicating trust in Easy Spirit\u2019s fit and technology. The only non-Easy Spirit purchase (a Baggallini strap) was a one-off accessory and received a neutral/critical review, suggesting the user is willing to try other reputable brands for accessories but primarily favors Easy Spirit for footwear.",
+            "price_sensitivity": "The user appears to be medium-to-low price sensitive. Many purchases fall in the $30\u2013$55 range and the buyer frequently acquires multiple pairs over time, indicating willingness to spend moderate amounts repeatedly for preferred styles. They do not comment on hunting deals or discounts and instead emphasize fit, comfort and new patterns; price does not dominate decision-making but value for comfort and features (removable insoles, arch support) matters when justifying purchases.",
+            "review_sensitivity": "The user demonstrates low review-dependence from external ratings: their decisions are driven more by prior personal experience and brand trust than by aggregate ratings. They repeatedly buy the same brand and style and write detailed reviews themselves about fit and comfort, showing they rely on hands-on testing and product features rather than consulting many outside reviews before buying.",
+            "functional_requirements": "For this product category the user consistently needs a comfortable, supportive slip-on shoe with a removable cushioned insole and reliable arch support (to allow orthotic inserts). They prefer lightweight construction, shock-absorbing midsoles (EVA/foam), a durable rubber outsole with good traction, breathable uppers (mesh or air-cooled panels) and a secure fit\u2014ideally with options for closed-back support or adjustable closures for heel retention. Ease of slipping on/off, durability for everyday walking, and clear sizing/removable-insole information in the product listing are essential.",
+            "aesthetic_preferences": "The buyer favors fun, decorative, feminine patterns and unique finishes rather than plain solids: floral prints, tropical foliage, celestial motifs, iridescent sequins and bronze-gold shimmers recur in their purchases. They like color variations (deep purplish-blue, sparkling blues, spring-like florals) and mixed-material uppers (leather/textile combinations). Visible decorative elements (stitching, sparkles, metallic accents) and pattern continuity across product families (matching sandals/clogs) are important to their wardrobe choices.",
+            "purchase_preferences": "The user values accurate product descriptions and clear measurements (weight, heel height, removable insole details) because they buy online despite photos sometimes understating appearance. They prefer reliable sellers/brands with consistent fit and clear listing of orthotic compatibility. While not explicit about shipping speed, they demonstrate tolerance for imperfect photos but likely expect straightforward return/exchange options if sizing or support is wrong. Good product family availability (matching styles across sandals, sneakers, booties) and consistent inventory from a trusted brand are also important for repeat buying."
+        },
+        "check_list": {
+            "brand_preferences": [
+                "Product brand is Easy Spirit (preferred)",
+                "Product listing explicitly identifies Easy Spirit subline names such as Traveltime, Travelfurr, or Martha Stewart collaboration"
+            ],
+            "price_sensitivity": [
+                "Product price is within the user budget of $40\u2013$60",
+                "Product listing documents included comfort features (removable cushioned insole and arch support) that justify the price"
+            ],
+            "review_sensitivity": [
+                "Purchase decision is based on product specifications (removable insole, arch support, materials) rather than aggregate star ratings or volume of reviews"
+            ],
+            "functional_requirements": [
+                "Product includes a removable cushioned insole documented in the listing",
+                "Product listing specifies reliable arch support or explicit compatibility with orthotic inserts",
+                "Midsole material is specified as shock-absorbing foam/EVA in the product details",
+                "Outsole is specified as durable rubber with traction in the product details",
+                "Upper materials are specified as breathable (mesh or air-cooled panels) and the listing documents ease of slipping on/off and sizing information"
+            ],
+            "aesthetic_preferences": [
+                "Upper features decorative feminine patterns or unique finishes (floral, tropical, celestial, iridescent/sequin, or metallic shimmer) as shown in product images or description",
+                "Product uses mixed-material uppers (leather/textile combination) in the specifications",
+                "Product images/documentation show visible decorative elements (stitching, sparkles, metallic accents)",
+                "Product is available in color variations consistent with the user\u2019s preferences (e.g., deep purplish-blue, sparkling blues, spring florals)",
+                "Product is part of a product family or has matching styles across sandals/clogs indicated in the listing"
+            ],
+            "purchase_preferences": [
+                "Product listing provides clear measurements and specifications including weight, heel height, and removable insole details",
+                "Listing explicitly states orthotic compatibility or ability to accommodate inserts",
+                "Seller or brand has consistent sizing information and history of the same model/line available in inventory",
+                "Listing provides clear return/exchange policy details suitable for online fitting errors"
+            ]
+        },
+        "seed_product_information": {
+            "user_review_title": "Pretty shoes",
+            "user_rating": 5.0,
+            "user_review": "I love the fuzzy lining and the flower print, I\u2019m going to use them instead of slippers around the house, because they give more support than slippers.",
+            "product": {
+                "description": [
+                    "Slide into style sporting the Easy Spirit\u00ae Travelfurr 2. This footwear makes a statement and pairs well with just about anything in the closet. The possibilities are endless when styling so add these to the footwear collection.",
+                    "Slide into style sporting the Easy Spirit\u00ae Travelfurr 2. This footwear makes a statement and pairs well with just about anything in the closet. The possibilities are endless when styling so add these to the footwear collection.",
+                    "Removable cushioned footbed with arch support.",
+                    "Removable cushioned footbed with arch support.",
+                    "Synthetic upper and outsole.",
+                    "Synthetic upper and outsole.",
+                    "Synthetic outsole.",
+                    "Synthetic outsole.",
+                    "Stitching details.",
+                    "Stitching details.",
+                    "Faux fur lining.",
+                    "Faux fur lining.",
+                    "Textile linsole.",
+                    "Textile linsole.",
+                    "Faux fur trim.",
+                    "Faux fur trim.",
+                    "Slip-on style.",
+                    "Slip-on style.",
+                    "Lightweight.",
+                    "Lightweight.",
+                    "Closed toe.",
+                    "Closed toe.",
+                    "Clog style.",
+                    "Clog style.",
+                    "Imported.",
+                    "Imported.",
+                    "Measurements:  Heel Height: 1 1\u20442 in Weight: 7 oz",
+                    "Measurements:",
+                    "Heel Height: 1 1\u20442 in",
+                    "Heel Height: 1",
+                    "1",
+                    "\u2044",
+                    "2",
+                    "in",
+                    "Weight: 7 oz",
+                    "Weight: 7 oz",
+                    "Product measurements were taken using size 9, width M (B). Please note that measurements may vary by size.",
+                    "Product measurements were taken using size 9, width M (B). Please note that measurements may vary by size.",
+                    "Weight of footwear is based on a single item, not a pair.",
+                    "Weight of footwear is based on a single item, not a pair."
+                ],
+                "categories": [
+                    "Clothing, Shoes & Jewelry",
+                    "Women",
+                    "Shoes",
+                    "Mules & Clogs"
+                ],
+                "main_category": "AMAZON FASHION",
+                "store": "Easy Spirit",
+                "details": "{\"Item Weight\": \"1.5 Pounds\", \"Department\": \"Womens\", \"Date First Available\": \"January 23, 2021\", \"Manufacturer\": \"Easy Spirit\"}",
+                "title": "Easy Spirit Travelfurr",
+                "average_rating": 4.6,
+                "features": [
+                    "Made in USA or Imported",
+                    "Rubber sole"
+                ],
+                "price": "44.95",
+                "rating_number": 136
+            }
+        }
+    }
+]
